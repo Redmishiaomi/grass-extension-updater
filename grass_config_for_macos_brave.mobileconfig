@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadContent</key>
+            <dict>
+                <key>com.brave.Browser</key>
+                <dict>
+                    <key>Forced</key>
+                    <array>
+                        <dict>
+                            <key>mcx_preference_settings</key>
+                            <dict>
+                                <key>ExtensionInstallAllowlist</key>
+                                <array>
+                                    <string>lkbnfiajjmbhnfledhphioinpickokdi</string>
+                                </array>
+                            </dict>
+                        </dict>
+                    </array>
+                </dict>
+            </dict>
+            <key>PayloadDisplayName</key>
+            <string>This profile allows you to use Grass extension for your Brave browser.</string>
+            <key>PayloadEnabled</key>
+            <true/>
+            <key>PayloadIdentifier</key>
+            <string>io.getgrass.www</string>
+            <key>PayloadType</key>
+            <string>com.apple.ManagedClient.preferences</string>
+            <key>PayloadUUID</key>
+            <string>018ee355-0a82-792d-b1ec-a2f9107f1f98</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+  <key>PayloadDescription</key>
+  <string>Grass Extension Policy Settings</string>
+  <key>PayloadDisplayName</key>
+  <string>Grass Extension Policy Settings</string>
+  <key>PayloadIdentifier</key>
+  <string>io.getgrass.www</string>
+  <key>PayloadOrganization</key>
+  <string>Grass</string>
+  <key>PayloadRemovalDisallowed</key>
+  <false/>
+  <key>PayloadScope</key>
+  <string>User</string>
+  <key>PayloadType</key>
+  <string>Configuration</string>
+  <key>PayloadUUID</key>
+  <string>c7c5423b-94e9-4126-89e1-c4a3251b4144</string>
+  <key>PayloadVersion</key>
+  <integer>1</integer>
+</dict>
+</plist>
