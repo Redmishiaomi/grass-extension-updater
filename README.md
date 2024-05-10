@@ -1,2 +1,3 @@
 # grass-extension-updater
-Grass Extension Updater
+
+Grass Extension Updater Configs

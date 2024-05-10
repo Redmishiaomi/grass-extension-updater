@@ -7,7 +7,7 @@
         <dict>
             <key>PayloadContent</key>
             <dict>
-                <key>com.brave.Browser</key>
+                <key>com.google.Chrome</key>
                 <dict>
                     <key>Forced</key>
                     <array>
@@ -24,7 +24,7 @@
                 </dict>
             </dict>
             <key>PayloadDisplayName</key>
-            <string>This profile allows you to use Grass extension for your Brave browser.</string>
+            <string>This profile allows you to use Grass extension for your Chrome browser.</string>
             <key>PayloadEnabled</key>
             <true/>
             <key>PayloadIdentifier</key>
@@ -32,15 +32,15 @@
             <key>PayloadType</key>
             <string>com.apple.ManagedClient.preferences</string>
             <key>PayloadUUID</key>
-            <string>018ee355-0a82-792d-b1ec-a2f9107f1f98</string>
+            <string>9446f32e-dee3-4bdc-af6e-73e61918ad31</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
     </array>
   <key>PayloadDescription</key>
-  <string>Grass Extension Policy Settings</string>
+  <string>Grass Extension Policy Settings (Chrome)</string>
   <key>PayloadDisplayName</key>
-  <string>Grass Extension Policy Settings</string>
+  <string>Grass Extension Policy Settings (Chrome)</string>
   <key>PayloadIdentifier</key>
   <string>io.getgrass.www</string>
   <key>PayloadOrganization</key>
@@ -52,7 +52,7 @@
   <key>PayloadType</key>
   <string>Configuration</string>
   <key>PayloadUUID</key>
-  <string>c7c5423b-94e9-4126-89e1-c4a3251b4144</string>
+  <string>6ff35f95-2f0f-4253-ba96-781b1ccb59ef</string>
   <key>PayloadVersion</key>
   <integer>1</integer>
 </dict>

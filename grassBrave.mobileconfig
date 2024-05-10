@@ -7,7 +7,7 @@
         <dict>
             <key>PayloadContent</key>
             <dict>
-                <key>com.microsoft.Edge</key>
+                <key>com.brave.Browser</key>
                 <dict>
                     <key>Forced</key>
                     <array>
@@ -21,10 +21,10 @@
                             </dict>
                         </dict>
                     </array>
-                </dict>
+                </dict> 
             </dict>
             <key>PayloadDisplayName</key>
-            <string>This profile allows you to use Grass extension for your Microsoft Edge browser.</string>
+            <string>This profile allows you to use Grass extension for your Brave browser.</string>
             <key>PayloadEnabled</key>
             <true/>
             <key>PayloadIdentifier</key>
@@ -38,9 +38,9 @@
         </dict>
     </array>
   <key>PayloadDescription</key>
-  <string>Grass Extension Policy Settings</string>
+  <string>Grass Extension Policy Settings (Brave)</string>
   <key>PayloadDisplayName</key>
-  <string>Grass Extension Policy Settings</string>
+  <string>Grass Extension Policy Settings (Brave)</string>
   <key>PayloadIdentifier</key>
   <string>io.getgrass.www</string>
   <key>PayloadOrganization</key>

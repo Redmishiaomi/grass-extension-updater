@@ -7,7 +7,7 @@
         <dict>
             <key>PayloadContent</key>
             <dict>
-                <key>com.google.Chrome</key>
+                <key>com.microsoft.Edge</key>
                 <dict>
                     <key>Forced</key>
                     <array>
@@ -24,7 +24,7 @@
                 </dict>
             </dict>
             <key>PayloadDisplayName</key>
-            <string>This profile allows you to use Grass extension for your Chrome browser.</string>
+            <string>This profile allows you to use Grass extension for your Microsoft Edge browser.</string>
             <key>PayloadEnabled</key>
             <true/>
             <key>PayloadIdentifier</key>
@@ -32,15 +32,15 @@
             <key>PayloadType</key>
             <string>com.apple.ManagedClient.preferences</string>
             <key>PayloadUUID</key>
-            <string>018ee355-0a82-792d-b1ec-a2f9107f1f98</string>
+            <string>f0502587-bbcf-4f8e-8121-0a7000b072d2</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
     </array>
   <key>PayloadDescription</key>
-  <string>Grass Extension Policy Settings</string>
+  <string>Grass Extension Policy Settings (Edge)</string>
   <key>PayloadDisplayName</key>
-  <string>Grass Extension Policy Settings</string>
+  <string>Grass Extension Policy Settings (Edge)</string>
   <key>PayloadIdentifier</key>
   <string>io.getgrass.www</string>
   <key>PayloadOrganization</key>
@@ -52,7 +52,7 @@
   <key>PayloadType</key>
   <string>Configuration</string>
   <key>PayloadUUID</key>
-  <string>c7c5423b-94e9-4126-89e1-c4a3251b4144</string>
+  <string>2e285205-bfe0-44f8-8f44-976c3f5a3b1a</string>
   <key>PayloadVersion</key>
   <integer>1</integer>
 </dict>
