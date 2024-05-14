@@ -1,3 +1,3 @@
 # grass-extension-updater
 
-Grass Extension Updater Configs
+Grass Community Node Updater Configs

@@ -24,7 +24,7 @@
                 </dict>
             </dict>
             <key>PayloadDisplayName</key>
-            <string>This profile allows you to use Grass extension for your Microsoft Edge browser.</string>
+            <string>This profile allows you to use Grass Community Node for your Microsoft Edge browser.</string>
             <key>PayloadEnabled</key>
             <true/>
             <key>PayloadIdentifier</key>
@@ -38,9 +38,9 @@
         </dict>
     </array>
   <key>PayloadDescription</key>
-  <string>Grass Extension Policy Settings (Edge)</string>
+  <string>Grass Community Node Policy Settings (Edge)</string>
   <key>PayloadDisplayName</key>
-  <string>Grass Extension Policy Settings (Edge)</string>
+  <string>Grass Community Node Policy Settings (Edge)</string>
   <key>PayloadIdentifier</key>
   <string>io.getgrass.www</string>
   <key>PayloadOrganization</key>
