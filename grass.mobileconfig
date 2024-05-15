@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+  <array>
+    <!-- Chrome Payload -->
+    <dict>
+      <key>PayloadContent</key>
+      <dict>
+        <key>com.google.Chrome</key>
+        <dict>
+          <key>Forced</key>
+          <array>
+            <dict>
+              <key>mcx_preference_settings</key>
+              <dict>
+                <key>ExtensionInstallAllowlist</key>
+                <array>
+                  <string>lkbnfiajjmbhnfledhphioinpickokdi</string>
+                </array>
+              </dict>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>PayloadDisplayName</key>
+      <string>This profile allows you to use Grass Community Node for your Chrome browser.</string>
+      <key>PayloadEnabled</key>
+      <true/>
+      <key>PayloadIdentifier</key>
+      <string>io.getgrass.www.chrome</string>
+      <key>PayloadType</key>
+      <string>com.apple.ManagedClient.preferences</string>
+      <key>PayloadUUID</key>
+      <string>9446f32e-dee3-4bdc-af6e-73e61918ad31</string>
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+    </dict>
+    <!-- Brave Payload -->
+    <dict>
+      <key>PayloadContent</key>
+      <dict>
+        <key>com.brave.Browser</key>
+        <dict>
+          <key>Forced</key>
+          <array>
+            <dict>
+              <key>mcx_preference_settings</key>
+              <dict>
+                <key>ExtensionInstallAllowlist</key>
+                <array>
+                  <string>lkbnfiajjmbhnfledhphioinpickokdi</string>
+                </array>
+              </dict>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>PayloadDisplayName</key>
+      <string>This profile allows you to use Grass Community Node for your Brave browser.</string>
+      <key>PayloadEnabled</key>
+      <true/>
+      <key>PayloadIdentifier</key>
+      <string>io.getgrass.www.brave</string>
+      <key>PayloadType</key>
+      <string>com.apple.ManagedClient.preferences</string>
+      <key>PayloadUUID</key>
+      <string>018ee355-0a82-792d-b1ec-a2f9107f1f98</string>
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+    </dict>
+    <!-- Edge Payload -->
+    <dict>
+      <key>PayloadContent</key>
+      <dict>
+        <key>com.microsoft.Edge</key>
+        <dict>
+          <key>Forced</key>
+          <array>
+            <dict>
+              <key>mcx_preference_settings</key>
+              <dict>
+                <key>ExtensionInstallAllowlist</key>
+                <array>
+                  <string>lkbnfiajjmbhnfledhphioinpickokdi</string>
+                </array>
+              </dict>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>PayloadDisplayName</key>
+      <string>This profile allows you to use Grass Community Node for your Microsoft Edge browser.</string>
+      <key>PayloadEnabled</key>
+      <true/>
+      <key>PayloadIdentifier</key>
+      <string>io.getgrass.www.edge</string>
+      <key>PayloadType</key>
+      <string>com.apple.ManagedClient.preferences</string>
+      <key>PayloadUUID</key>
+      <string>f0502587-bbcf-4f8e-8121-0a7000b072d2</string>
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+    </dict>
+  </array>
+  <key>PayloadDescription</key>
+  <string>Grass Community Node Policy Settings (Chrome, Brave, and Edge)</string>
+  <key>PayloadDisplayName</key>
+  <string>Grass Community Node Policy Settings (Chrome, Brave, and Edge)</string>
+  <key>PayloadIdentifier</key>
+  <string>io.getgrass.www</string>
+  <key>PayloadOrganization</key>
+  <string>Grass</string>
+  <key>PayloadRemovalDisallowed</key>
+  <false/>
+  <key>PayloadScope</key>
+  <string>User</string>
+  <key>PayloadType</key>
+  <string>Configuration</string>
+  <key>PayloadUUID</key>
+  <string>6ff35f95-2f0f-4253-ba96-781b1ccb59ef</string>
+  <key>PayloadVersion</key>
+  <integer>1</integer>
+</dict>
+</plist>
